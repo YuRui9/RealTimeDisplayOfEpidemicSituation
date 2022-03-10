@@ -4,7 +4,7 @@
 # @File : test.py
 # @desc :
 def func():
-    print("测试用")
+    print("测试用1")
 
 
 if __name__ == '__main__':
